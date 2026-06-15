@@ -131,32 +131,32 @@ Please download them from their official sources and follow the original KISS-IC
 
 ---
 
-## Install
+## Installation
 
-The installation procedure is identical to the original KISS-ICP implementation.
+This repository is based on the original KISS-ICP framework. Therefore, the installation procedure is largely identical to the original implementation.
 
-### Python Package
-
-```sh
-pip install kiss-icp
-```
-
-or install from source:
+Clone the repository:
 
 ```sh
 git clone https://github.com/kodingson900104/HYBRID-KISS-ICP.git
 cd HYBRID-KISS-ICP
+```
 
+Install the package from source:
+
+```sh
 pip install .
 ```
 
-Next, follow the instructions on how to run the system by typing:
+After installation, verify that the package is available:
 
 ```sh
 kiss_icp_pipeline --help
 ```
 
-For advanced instructions on the Python package please see:
+The command-line interface remains compatible with the original KISS-ICP implementation.
+
+For advanced usage and configuration options, please refer to:
 
 ```text
 python/README.md
@@ -164,29 +164,6 @@ python/README.md
 
 ---
 
-## ROS Support
-
-### ROS 2
-
-```sh
-cd ~/ros2_ws/src/
-git clone https://github.com/kodingson900104/HYBRID-KISS-ICP.git
-
-cd ~/ros2_ws/
-colcon build --packages-select kiss_icp
-```
-
-For more detailed instructions on the ROS wrapper, please visit:
-
-```text
-ros/README.md
-```
-
-### ROS 1
-
-ROS 1 support follows the original KISS-ICP implementation.
-
----
 
 ## Experimental Results
 
