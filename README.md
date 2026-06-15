@@ -5,7 +5,7 @@ An extension of KISS-ICP integrating planar geometric constraints for LiDAR odom
 
 <br />
 
-<a href="https://github.com/PRBonn/kiss-icp"><img src="https://img.shields.io/badge/Based%20on-KISS--ICP-blue" /></a> <a href="https://github.com/kodingson900104/HYBRID-KISS-ICP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/kodingson900104/HYBRID-KISS-ICP" /></a> <a href="https://github.com/kodingson900104/HYBRID-KISS-ICP"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></a> <a href="https://github.com/kodingson900104/HYBRID-KISS-ICP"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /></a> <a href="https://github.com/kodingson900104/HYBRID-KISS-ICP"><img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" /></a>
+<a href="https://github.com/PRBonn/kiss-icp"><img src="https://img.shields.io/badge/Based%20on-KISS--ICP-blue" /></a> <a href="https://github.com/kodingson900104/HYBRID-KISS-ICP/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/kodingson900104/HYBRID-KISS-ICP?style=flat-square" /> </a> <a href="https://github.com/kodingson900104/HYBRID-KISS-ICP"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></a> <a href="https://github.com/kodingson900104/HYBRID-KISS-ICP"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /></a> <a href="https://github.com/kodingson900104/HYBRID-KISS-ICP"><img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" /></a>
 
 <br />
 <br />
